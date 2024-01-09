@@ -22,7 +22,7 @@ Some of my projects:</h3>
 <a href="https://github.com/EyalBrilling/914-PC-BOT-integration-with-raspberry-pi-4-and-ROS2">Link to Project</a>
 </p>
 
-<table border="0">
+<table>
   <tr>
     <td><img src="https://github.com/EyalBrilling/Traveling-Salesman-Problem-Solver-And-Visualizer/blob/master/media/att48.gif?raw=true" width="350">
     <p align="center">
