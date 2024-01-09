@@ -2,7 +2,7 @@
 <h3 align="center">An enthusiastic software enginner with hands-on experience in robotics</h3>
 <h3>
 <br>
-I enjoy contributing to Open source, mainly focusing on ROS and gazebo projects. Feel free to contact me about those!</h3>
+I enjoy contributing to Open source, mainly focusing on ROS and gazebo projects. <br> Feel free to contact me about those!</h3>
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
