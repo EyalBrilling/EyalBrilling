@@ -24,14 +24,14 @@ Some of my projects:</h3>
 
 <table>
   <tr>
-    <td style="border:0px"><img src="https://github.com/EyalBrilling/Traveling-Salesman-Problem-Solver-And-Visualizer/blob/master/media/att48.gif?raw=true" width="350">
+    <td><img src="https://github.com/EyalBrilling/Traveling-Salesman-Problem-Solver-And-Visualizer/blob/master/media/att48.gif?raw=true" width="350">
     <p align="center">
     TSP genetic algorithm solver
     <br>
     <a href="https://github.com/EyalBrilling/Traveling-Salesman-Problem-Solver-And-Visualizer">Link to Project</a>
     </p>
     </td>
-    <td style="border:0px"><img src="https://github.com/EyalBrilling/8-Queen-Problem-Genetic-Algorithm-and-Visualizer/blob/main/solution.gif?raw=true" width="300">
+    <td><img src="https://github.com/EyalBrilling/8-Queen-Problem-Genetic-Algorithm-and-Visualizer/blob/main/solution.gif?raw=true" width="300">
     <p align="center">
     8 queens solver
     <br>
@@ -40,7 +40,7 @@ Some of my projects:</h3>
     </td>
   </tr>
     <tr>
-  <td style="border:0px"> 
+  <td> 
   <img src="https://github.com/EyalBrilling/Neural-network-implementation-for-the-MNIST-dataset/blob/master/NN_PNG/NN_PNG.png?raw=true" width="350">
     <p align="center">
     Neural network classifier for handwritten numbers
@@ -48,6 +48,6 @@ Some of my projects:</h3>
     <a href="https://github.com/EyalBrilling/Neural-network-implementation-for-the-MNIST-dataset/tree/master">Link to Project</a>
     </p>
   </td>
-  <td style="border:0px"> </td>
+  <td> </td>
   </tr>
  </table>
