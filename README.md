@@ -11,8 +11,6 @@ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuld
 alt="eyalbrilling" height="30" width="40" /></a>
 </p>
 
-
-
 <h3 align="center">
 Some of my projects:</h3>
 
@@ -22,7 +20,6 @@ Some of my projects:</h3>
 <b>PC-BOT integration <br> with raspberry pi4 and ROS2
 <br>
 <a href="https://github.com/EyalBrilling/914-PC-BOT-integration-with-raspberry-pi-4-and-ROS2">Link to Project</a>
-
 </p>
 
 <table>
