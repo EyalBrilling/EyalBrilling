@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Eyal Brilling</h1>
-<h3 align="left">An enthusiastic software engineer with hands-on experience in robotics and computer vision</h3>
+<h3 align="left">An enthusiastic software engineer with hands-on experience in robotics and computer vision.</h3>
 <h3>
 <br>
 
