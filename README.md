@@ -1,8 +1,7 @@
 <h1 align="center">Hello 👋, I'm Eyal Brilling</h1>
-<h3 align="center">An enthusiastic software engineer with hands-on experience in robotics</h3>
+<h3 align="center">An enthusiastic software engineer with hands-on experience in robotics and computer vision</h3>
 <h3>
 <br>
-I enjoy contributing to Open source, Currently focusing on ROS and gazebo projects. <br> Feel free to contact me about those!</br></h3>
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
